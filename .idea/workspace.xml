@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ca158c-6bc0-46f7-bc6c-b49b5c8aefac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios_de_logica.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_funcoes/exercicio_01.java" afterDir="false" />
+    <list default="true" id="43ca158c-6bc0-46f7-bc6c-b49b5c8aefac" name="Changes" comment="exercicio_01 feito">
+      <change afterPath="$PROJECT_DIR$/src/exercicios_funcoes/exercicio_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/tarci/IdeaProjects/exercicios_de_logica",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,9 +47,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.exercicio_01">
     <configuration name="exercicio_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicios_funcoes.exercicio_01" />
+      <module name="exercicios_de_logica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios_funcoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercicio_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios_funcoes.exercicio_02" />
       <module name="exercicios_de_logica" />
       <extension name="coverage">
         <pattern>
@@ -68,6 +77,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.exercicio_01" />
+        <item itemvalue="Application.exercicio_02" />
       </list>
     </recent_temporary>
   </component>
@@ -79,11 +89,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678218028883</updated>
-      <workItem from="1678218029973" duration="1590000" />
+      <workItem from="1678218029973" duration="1818000" />
+      <workItem from="1678220351941" duration="309000" />
     </task>
+    <task id="LOCAL-00001" summary="exercicio_01 feito">
+      <created>1678220233061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678220233061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercicio_01 feito" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio_01 feito" />
   </component>
 </project>
