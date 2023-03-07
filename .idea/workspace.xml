@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ca158c-6bc0-46f7-bc6c-b49b5c8aefac" name="Changes" comment="exercicio_08 feito">
-      <change afterPath="$PROJECT_DIR$/src/exercicios_funcoes/exercicio_09.java" afterDir="false" />
+    <list default="true" id="43ca158c-6bc0-46f7-bc6c-b49b5c8aefac" name="Changes" comment="exercicio_10 feito">
+      <change afterPath="$PROJECT_DIR$/src/exercicios_funcoes/exercicio_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exercicio_09">
-    <configuration name="exercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios_funcoes.exercicio_05" />
-      <module name="exercicios_de_logica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicios_funcoes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exercicio_10">
     <configuration name="exercicio_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicios_funcoes.exercicio_06" />
       <module name="exercicios_de_logica" />
@@ -112,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios_funcoes.exercicio_10" />
+      <module name="exercicios_de_logica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios_funcoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio_10" />
         <item itemvalue="Application.exercicio_09" />
         <item itemvalue="Application.exercicio_08" />
         <item itemvalue="Application.exercicio_07" />
         <item itemvalue="Application.exercicio_06" />
-        <item itemvalue="Application.exercicio_05" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,7 @@
       <updated>1678218028883</updated>
       <workItem from="1678218029973" duration="1818000" />
       <workItem from="1678220351941" duration="5162000" />
-      <workItem from="1678231606279" duration="746000" />
+      <workItem from="1678231606279" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="exercicio_01 feito">
       <created>1678220233061</created>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678232231620</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="exercicio_09 feito">
+      <created>1678232405968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678232405968</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +221,8 @@
     <MESSAGE value="exercicio_06 feito" />
     <MESSAGE value="exercicio_07 feito" />
     <MESSAGE value="exercicio_08 feito" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicio_08 feito" />
+    <MESSAGE value="exercicio_09 feito" />
+    <MESSAGE value="exercicio_10 feito" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio_10 feito" />
   </component>
 </project>
