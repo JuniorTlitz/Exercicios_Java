@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ca158c-6bc0-46f7-bc6c-b49b5c8aefac" name="Changes" comment="exercicio_01 feito">
-      <change afterPath="$PROJECT_DIR$/src/estrutura_condicional/exercicio_02.java" afterDir="false" />
+    <list default="true" id="43ca158c-6bc0-46f7-bc6c-b49b5c8aefac" name="Changes" comment="exercicio_02 feito">
+      <change afterPath="$PROJECT_DIR$/src/estrutura_condicional/exercicio_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.exercicio_02">
+  <component name="RunManager" selected="Application.exercicio_05">
     <configuration name="exercicio_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicio_01" />
       <module name="exercicios_de_logica" />
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios_funcoes.exercicio_10" />
+    <configuration name="exercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estrutura_condicional.exercicio_05" />
       <module name="exercicios_de_logica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicios_funcoes.*" />
+          <option name="PATTERN" value="estrutura_condicional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio_05" />
         <item itemvalue="Application.exercicio_02" />
         <item itemvalue="Application.exercicio_01" />
         <item itemvalue="Application.exercicio_12" />
         <item itemvalue="Application.exercicio_11" />
-        <item itemvalue="Application.exercicio_10" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,7 @@
       <updated>1678218028883</updated>
       <workItem from="1678218029973" duration="1818000" />
       <workItem from="1678220351941" duration="5162000" />
-      <workItem from="1678231606279" duration="3390000" />
+      <workItem from="1678231606279" duration="3769000" />
     </task>
     <task id="LOCAL-00001" summary="exercicio_01 feito">
       <created>1678220233061</created>
@@ -232,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678234835925</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="exercicio_02 feito">
+      <created>1678235113791</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678235113791</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +248,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercicio_01 refeito" />
-    <MESSAGE value="exercicio_02 feito" />
     <MESSAGE value="exercicio_03 feito" />
     <MESSAGE value="exercicio_04 feito" />
     <MESSAGE value="exercicio_05 feito" />
@@ -252,6 +259,18 @@
     <MESSAGE value="exercicio_11 feito" />
     <MESSAGE value="exercicio_12 feito" />
     <MESSAGE value="exercicio_01 feito" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicio_01 feito" />
+    <MESSAGE value="exercicio_02 feito" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio_02 feito" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/estrutura_condicional/exercicio_05.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
